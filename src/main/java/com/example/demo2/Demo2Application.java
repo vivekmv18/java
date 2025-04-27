@@ -18,7 +18,7 @@ public class Demo2Application {
 	@GetMapping("/hello")
 	public String First()
 {
-return "Vivek";
+return "Vivek is god";
 }
 
 }
